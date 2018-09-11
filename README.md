@@ -37,5 +37,6 @@ The api works with wechat Oauth for more visit /api/v1/apidoc
 ## Database
 Mongodb with mongoose
 ## Licensing
-credit : https://github.com/francishero/connect-api.git
 MIT
+credit and special thanks to my kindest friend : https://github.com/francishero/connect-restiful-api
+
